@@ -1,4 +1,4 @@
-{ "name" : "foo"
+{ "name" : "npmreplacetest"
 , "version" : "1.2.3"
 , "description" : "A packaged foo fooer for fooing foos"
 , "main" : "foo.js"
